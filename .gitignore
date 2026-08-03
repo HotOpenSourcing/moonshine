@@ -7,7 +7,8 @@ composer.lock
 app
 reports
 phpunit.xml.dist
-.env
 .phpunit.cache
 .DS_Store
 .playwright-mcp
+config.bat
+node_modules
